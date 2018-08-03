@@ -26,8 +26,8 @@ let arraySchedules= [];
 class QuickViewSchedule extends Component {
 
     state = {
-        screenName: 'Screen 2',
-        daySelected: 'Monday',
+        screenName: 'Screen2',
+        daySelected: 'Lunes',
         schedules: [],
         showResults: false,
         screenList: [],
