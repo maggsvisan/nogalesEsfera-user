@@ -23,7 +23,7 @@ let schedulerRef;
 let arraySchedules= [];
 
 
-class PromoLoop extends Component {
+class QuickViewSchedule extends Component {
 
     state = {
         screenName: 'Screen 2',
@@ -241,7 +241,7 @@ class PromoLoop extends Component {
         )
     }
 }
-export default PromoLoop;
+export default QuickViewSchedule;
 
 
 
