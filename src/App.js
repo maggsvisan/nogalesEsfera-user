@@ -44,7 +44,7 @@ class App extends Component {
       <div >
         <div className="notesHeader">
           <h1>
-           Los Nogales Joya
+           Los Nogales Esfera
           </h1>
           
         </div>

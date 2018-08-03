@@ -52,7 +52,7 @@ for (let i = 0; i <= 23; i++) {
 class Announcements extends Component {
     
     state = {
-        screenName: 'Screen1',
+        screenName: 'Screen2',
         name: '',
         schedules: [
             {

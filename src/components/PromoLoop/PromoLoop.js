@@ -72,7 +72,7 @@ for (let i=0; i <= 23 ; i++){
 class PromoLoop extends Component {
 
     state = {
-        screenName: 'Screen1',
+        screenName: 'Screen2',
         selectedVideo: 'test',
         screenList: [],
         videoList: [],

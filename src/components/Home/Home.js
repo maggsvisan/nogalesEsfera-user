@@ -14,7 +14,7 @@ class Home extends Component {
             <div>
                
                 <div>
-                    <img src={require("./nogales.png")} alt="" className="img-responsive" />
+                    <img src={require("./nogales.jpg")} alt="" className="img-responsive" />
                 </div>                
              
             </div>
